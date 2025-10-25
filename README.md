@@ -13,6 +13,8 @@ Check out my **curriculum** [here](https://julianszere.github.io/curriculum/curr
 ### 🧩 Featured Work
 - [T.E.G. Analytic Probability Calculator](https://github.com/julianszere/TEG/tree/main) — Analysis of the winning probabilities for the argentinian game TEG, using Markov chains to compute the exact probability of winning battles.
 - [Doppler Shift Simulator](https://github.com/julianszere/dopplerlights) — A Python simulation that warps and color-shifts images to visualize how they would appear at relativistic speeds due to Doppler and aberration effects.
+- [PDE Solver with Images as initial conditions](https://github.com/julianszere/imagesolver/blob/main/README.md) — Evolution of PDE over time, with images interpreted as initial conditions.
+- [Guitar Numerical Simulation](https://github.com/julianszere/strings/tree/main) — A numerical simulation of a damped vibrating string based on the 1D wave equation, playing Smoke on the Water from pure math
 
 ---
 ---
