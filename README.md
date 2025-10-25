@@ -11,10 +11,8 @@ Check out my **curriculum** [here](https://julianszere.github.io/curriculum/curr
 ---
 
 ### 🧩 Featured Work
-- 🧠 [KAN Poster (PDF)](https://raw.githubusercontent.com/julianszere/curriculum/main/KAN-poster.pdf) — Presented at the Deep Learning Spring School (FCEyN-UBA) and SCIAA Symposium (UdeSA).  
-- 🔥 [TEG Probability Calculator](https://julianszere.github.io/proyectar/TEG/) — Online probability calculator for the TEG strategy game.  
-- 🎵 [String Simulation (Video)](https://youtu.be/wA7FSTKI-ZI) — Numerical simulation of the damped wave equation in Python.  
-- 🌀 [Triple Pendulum Simulation](https://youtu.be/fm-Fd9UOtdY) — Analytical and numerical modeling of chaotic motion.  
+- [T.E.G. Analytic Probability Calculator](https://github.com/julianszere/TEG/tree/main) — Analysis of the winning probabilities for the argentinian game TEG, using Markov chains to compute the exact probability of winning battles.
+- [Doppler Shift Simulator](https://github.com/julianszere/dopplerlights) — A Python simulation that warps and color-shifts images to visualize how they would appear at relativistic speeds due to Doppler and aberration effects.
 
 ---
 ---
