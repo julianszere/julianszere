@@ -3,7 +3,7 @@
 ### 🔬 About Me
 - My name is **Julián Szereszewski**.
 - I am a **Physicist** from the **University of Buenos Aires (UBA)** 🇦🇷.
-- I have **5+ years of experience in the software industry**, working across data analysis and machine learning.
+- I have **5+ years of experience in the software industry**
 - I am currently doing research in **mechanistic interpretability and subliminal learning** through **SPAR (Supervised Program for Alignment Research)**.
 
 Check out my **curriculum** [here](https://julianszere.github.io/curriculum/curriculum.pdf)
